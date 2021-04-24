@@ -1,0 +1,4 @@
+.idea
+.idea/*
+plain-redux/node_modules
+plain-redux/node_modules/*
